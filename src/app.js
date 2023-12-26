@@ -1,7 +1,7 @@
 export default {
   id: "exec_cmd",
   name: "Exec",
-  icon: "bolt",
+  icon: "electric_bolt",
   description: "Execute Command",
   overview: ({ cmd, wait, timeout }) => [
     {

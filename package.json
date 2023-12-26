@@ -12,8 +12,8 @@
 	"directus:extension": {
 		"type": "operation",
 		"path": {
-			"app": "dist/app.js",
-			"api": "dist/api.js"
+			"app": "dist/app.mjs",
+			"api": "dist/api.mjs"
 		},
 		"source": {
 			"app": "src/app.js",
